@@ -1,0 +1,14 @@
+{
+  "name": "wizzard-ui",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "https://github.com/erivaldocazinga22/wizzard-ui.git",
+  "author": "erivaldocazinga22 <cazarthdesogner@gmail.com>",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^22.8.2",
+    "typescript": "^5.6.3"
+  }
+}
